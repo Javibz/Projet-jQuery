@@ -9,7 +9,7 @@ ul,ol {
 }
 
 body {
-  background: #bfbfbf url('images/background.jpg') repeat-x;
+  background: #bfbfbf url('../images/background.jpg') repeat-x;
   font-family: Arial, sans-serif;
 }
 header {
@@ -46,7 +46,7 @@ header h1 {
   width: 140px;
   height: 500px;
   cursor: pointer;
-  background: url('images/bw-image.jpg') no-repeat;
+  background: url('../images/bw-image.jpg') no-repeat;
   opacity: 0.7;
 }
 
@@ -56,7 +56,7 @@ header h1 {
   width: 140px;
   height: 500px;
   cursor: pointer;
-  background: url('images/color-image.jpg') no-repeat;
+  background: url('../images/color-image.jpg') no-repeat;
 }
 
 #part2 div{
